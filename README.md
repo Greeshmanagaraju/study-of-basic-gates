@@ -1,4 +1,4 @@
-### study-of-basic-gates
+<img width="431" height="826" alt="380988021-11d6b227-e8ce-425b-9e42-faf0f90ac403" src="https://github.com/user-attachments/assets/d7598849-58ff-41d2-b8b1-377182041837" />### study-of-basic-gates
 
 **AIM:** 
 
@@ -66,14 +66,34 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: 
+ RegisterNumber: 
+ ```
+//exp1- All logic Gates TT verfn..
+module exp1_0102(a, b, c, d, e, x, y, z) ;
+input a, b;
+output c, d, e, x, y, z; 
+and (c,a, b); 
+or (d, a, b) ; 
+xor (e, a, b) ; 
+nand (x, a, b) ;
+nor (y,a, b) ;
+xnor (z,a, b) ;
+endmodule
+```
  
 **Logic symbol & Truthtable**
 
+
+<img width="431" height="826" alt="380988021-11d6b227-e8ce-425b-9e42-faf0f90ac403" src="https://github.com/user-attachments/assets/477db5be-13dd-4f4a-ac8b-8a1e796b4116" />
+
 **RTL realization Output:** 
+<img width="1907" height="1010" alt="Screenshot 2026-09-05 101634" src="https://github.com/user-attachments/assets/c0ab80db-307f-40e3-872e-414c13db220a" />
 
 **RTL**
+<img width="1907" height="1019" alt="image" src="https://github.com/user-attachments/assets/06b1b9c7-73d6-426e-abc9-6dd9a9d565eb" />
+
 
 **Result:**
 
-
+Thus the basic logic gates are studied and the truth tables are verified.
