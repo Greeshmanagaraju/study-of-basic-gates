@@ -1,4 +1,5 @@
-<img width="431" height="826" alt="380988021-11d6b227-e8ce-425b-9e42-faf0f90ac403" src="https://github.com/user-attachments/assets/d7598849-58ff-41d2-b8b1-377182041837" />### study-of-basic-gates
+### study-of-basic-gates
+<img width="431" height="826" alt="380988021-11d6b227-e8ce-425b-9e42-faf0f90ac403" src="https://github.com/user-attachments/assets/d7598849-58ff-41d2-b8b1-377182041837" />
 
 **AIM:** 
 
